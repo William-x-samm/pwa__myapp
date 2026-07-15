@@ -1,5 +1,8 @@
 {
-  "version": 9,
+  "version": 1,
   "zip_url": "https://github.com/William-x-samm/pwa__myapp/releases/download/v1.0/v1.zip",
-  "changelog": "✨ Tampilan baru!\n🐛 Fix bug loading\n⚡ Performa lebih cepat"
+  "changelog": "✨ Tampilan baru!\n🐛 Fix bug loading\n⚡ Performa lebih cepat",
+  "app_version_code": 1,
+  "apk_url": "https://github.com/William-x-samm/pwa__myapp/releases/download/v1.0/app-debug.apk",
+  "apk_changelog": "Icon baru, perbaikan native code"
 }
